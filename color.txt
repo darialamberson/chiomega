@@ -1,0 +1,4 @@
+hero background: DCE6E8
+yellow background: F2E5AC
+navy blue: 1811A8
+mint img border: C6F7E4
