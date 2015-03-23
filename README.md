@@ -1,4 +1,4 @@
 XO
 ==
 
-The official website for Stanford Chi Omega!
+The former official website for Stanford Chi Omega!
