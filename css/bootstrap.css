@@ -85,16 +85,17 @@ section {
 
 .pagetop .fb {
   background-image: url("./../images/fb.jpg");
-  padding-top: 60px;
-  padding-right: 40px;
+  padding-top: 34px;
+  padding-right: 34px;
   float: right;
   background-repeat: no-repeat;
 }
 
 .pagetop .insta {
   background-image: url("./../images/insta.jpg");
-  padding-top: 60px;
-  padding-right: 40px;
+  padding-top: 34px;
+  padding-right: 34px;
+  margin-right: 20px;
   float: right;
   background-repeat: no-repeat;
 }
