@@ -87,6 +87,7 @@ section {
   background-image: url("./../images/fb.jpg");
   padding-top: 34px;
   padding-right: 34px;
+  margin-right: 5px;
   float: right;
   background-repeat: no-repeat;
 }
