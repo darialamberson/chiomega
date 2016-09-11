@@ -66,11 +66,13 @@ section {
 .pagetop {
   position: relative;
   min-width: auto;
+  margin-top: 24px;
+  padding-top: 1px;
 }
 
 .pagetop > h2 {
   padding-left: 65px;
-  margin-top: 0;
+  margin-top: 5px;
   min-width: auto;
 }
 
